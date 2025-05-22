@@ -116,27 +116,6 @@ Accessible at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-##  Directory Structure
-
-smart-city-platform/
-├── docker-compose.yml
-├── producers/
-│   ├── water-producer/
-│   ├── crime-producer/
-│   └── air-quality-producer/
-├── consumers/
-│   ├── water-consumer/
-│   ├── crime-consumer/
-│   └── air-quality-consumer/
-├── websocket-server/
-├── dashboard-frontend/     # React client
-├── grafana/                # Predefined dashboards
-├── data/                   # CSV datasets
-└── README.md
-```
-
----
-
 ##  Credentials
 
 | Service    | Username | Password |
@@ -157,4 +136,4 @@ smart-city-platform/
 
 ## Author
 
-**ASMAE LAMGARI**, **OUSSEF OUAZIZE**
+**ASMAE LAMGARI**, **OUSSEF OUAZIZE**, **SOUFIANE BOUSLIKHANE**
