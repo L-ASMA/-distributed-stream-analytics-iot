@@ -134,6 +134,6 @@ Accessible at [http://localhost:5173](http://localhost:5173)
 *  WebSocket live data push to React
 *  Docker-based deployment
 
-## Author
+## Authors
 
 **ASMAE LAMGARI**, **OUSSEF OUAZIZE**, **SOUFIANE BOUSLIKHANE**
