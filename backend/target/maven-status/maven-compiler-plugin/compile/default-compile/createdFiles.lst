@@ -1,0 +1,6 @@
+com\smartcity\CrimeKafkaConsumer.class
+com\smartcity\ElectricityKafkaProducer.class
+com\smartcity\WaterKafkaConsumer.class
+com\smartcity\CrimeKafkaProducer.class
+com\smartcity\ElectricityKafkaConsumer.class
+com\smartcity\WaterKafkaProducer.class
