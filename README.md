@@ -1,4 +1,4 @@
-# -distributed-stream-analytics-iot
+# distributed-stream-analytics-iot
 ##  Prerequisites
 
 Make sure the following tools are installed:
