@@ -1,4 +1,7 @@
 # distributed-stream-analytics-iot
+
+<img width="524" height="284" alt="archi_smart_city" src="https://github.com/user-attachments/assets/eb07b4ae-32de-44b0-963f-0d6d094adaa1" />
+
 ##  Prerequisites
 
 Make sure the following tools are installed:
